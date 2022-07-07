@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">BackgroundLocationKotlin</string>
+    <string name="google_maps_key">AIzaSyD4uJ12wTWFGYgE826PIwh3THCo5TPVsfc</string>
+    <string name="start">Start tracking</string>
+    <string name="stop">Stop tracking</string>
+    <string name="location_service_title">Location service </string>
+    <string name="location_service_text">location service is running</string>
+    <string name="permissions_rationale">You need to accept location permissions to use this app.</string>
+    <string name="permissions_granted">Permissions Granted.</string>
+</resources>
